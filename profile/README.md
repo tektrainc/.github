@@ -1,10 +1,8 @@
-# Tektra, Inc.
-
 <div align="center">
 
 <p align="center">
   <a href="https://tr.ee/Osy5vR">
-    <img src="profile/Tkt_LinkedIn_cover.png" alt="Tektra, Inc. - Leading Technology and Construction Solutions for a Sustainable Future" width="100%">
+    <img src="Tkt_LinkedIn_cover.png" alt="Tektra, Inc. - Leading Technology and Construction Solutions for a Sustainable Future" width="100%">
   </a>
 </p>
 
