@@ -2,7 +2,12 @@
 
 <div align="center">
 
-![Tektra Banner](https://img.shields.io/badge/Tektra%2C%20Inc%2E-Digital%20Innovation%20%26%20Physical%20Infrastructure-0A66C2?style=for-the-badge)
+<p align="center">
+  <a href="https://tr.ee/Osy5vR">
+    <img src="profile/Tkt_LinkedIn_cover.png" alt="Tektra, Inc. - Leading Technology and Construction Solutions for a Sustainable Future" width="100%">
+  </a>
+</p>
+
 
 **Building a sustainable future by harnessing the synergy between digital innovation and physical infrastructure.**
 
