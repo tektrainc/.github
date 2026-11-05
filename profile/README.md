@@ -2,12 +2,12 @@
 
 <div align="center">
 
-![Tektra Banner](https://img.shields.io/badge/Tektra-Digital%20Innovation%20%26%20Physical%20Infrastructure-0A66C2?style=for-the-badge)
+![Tektra Banner](https://img.shields.io/badge/Tektra%2C%20Inc%2E-Digital%20Innovation%20%26%20Physical%20Infrastructure-0A66C2?style=for-the-badge)
 
 **Building a sustainable future by harnessing the synergy between digital innovation and physical infrastructure.**
 
-[![Website](https://img.shields.io/badge/Website-Tektra-blue?style=flat-square&logo=googlechrome)](https://tektra.netlify.app) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tektra--Inc-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/tektra-inc) 
+[![Website](https://img.shields.io/badge/Website-Tektra%2C%20Inc%2E-blue?style=flat-square&logo=googlechrome)](https://tektra.netlify.app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tektra%2C%20Inc%2E-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/tektra-inc) 
 [![Email](https://img.shields.io/badge/Contact-Get%20in%20Touch-0078D4?style=flat-square&logo=microsoftoutlook)](mailto:tektra.inc@gmail.com) 
 
 ---
