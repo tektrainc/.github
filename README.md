@@ -6,9 +6,9 @@
 
 **Building a sustainable future by harnessing the synergy between digital innovation and physical infrastructure.**
 
-[![Website](https://img.shields.io/badge/Website-Tektra-blue?style=flat-square&logo=googlechrome)](https://tektra.inc) <!-- Remplacez par le lien réel -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tektra--Inc-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/tektra-inc) <!-- Remplacez par le lien réel -->
-[![Email](https://img.shields.io/badge/Contact-Get%20in%20Touch-0078D4?style=flat-square&logo=microsoftoutlook)](mailto:contact@tektra.inc) <!-- Remplacez par le lien réel -->
+[![Website](https://img.shields.io/badge/Website-Tektra-blue?style=flat-square&logo=googlechrome)](https://tektra.netlify.app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tektra--Inc-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/tektra-inc) 
+[![Email](https://img.shields.io/badge/Contact-Get%20in%20Touch-0078D4?style=flat-square&logo=microsoftoutlook)](mailto:tektra.inc@gmail.com) 
 
 ---
 
@@ -62,7 +62,7 @@ What sets Tektra apart is our technological core applied to structural environme
 
 Whether you are looking to collaborate on open-source tools, integrate smart solutions into your infrastructure, or explore career opportunities, we welcome engagement from the developer and engineering communities.
 
-**[Visit Official Website](https://tektra.inc)** • **[Follow on LinkedIn](https://linkedin.com/company/tektra-inc)** • **[Contact Team](mailto:contact@tektra.inc)**
+**[Visit Official Website](https://tektra.netlify.app)** • **[Follow on LinkedIn](https://linkedin.com/company/tektra-inc)** • **[Contact Team](mailto:tektra.inc@gmail.com)**
 
 *© Tektra, Inc. All rights reserved.*
 
