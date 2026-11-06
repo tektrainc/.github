@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://tr.ee/Osy5vR">
+  <a href="https://tektra-inc.com">
     <img src="Tkt_LinkedIn_cover.png" alt="Tektra, Inc. - Leading Technology and Construction Solutions for a Sustainable Future" width="100%">
   </a>
 </p>
@@ -9,7 +9,7 @@
 
 **Building a sustainable future by harnessing the synergy between digital innovation and physical infrastructure.**
 
-[![Website](https://img.shields.io/badge/Website-Tektra%2C%20Inc%2E-blue?style=flat-square&logo=googlechrome)](https://tektra.netlify.app) 
+[![Website](https://img.shields.io/badge/Website-Tektra%2C%20Inc%2E-blue?style=flat-square&logo=googlechrome)](https://tektra-inc.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tektra%2C%20Inc%2E-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/company/tektra-inc) 
 [![Email](https://img.shields.io/badge/Contact-Get%20in%20Touch-0078D4?style=flat-square&logo=microsoftoutlook)](mailto:tektra.inc@gmail.com) 
 
