@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://tektra-inc.com">
+  <a href="https://tektra-inc.com" target="_blank">
     <img src="Tkt_LinkedIn_cover.png" alt="Tektra, Inc. - Leading Technology and Construction Solutions for a Sustainable Future" width="100%">
   </a>
 </p>
